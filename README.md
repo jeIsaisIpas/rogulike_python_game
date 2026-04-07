@@ -1,1 +1,1 @@
-[jeux_ascii_rpg_rogulike_V18.py](https://github.com/user-attachments/files/26459774/jeux_ascii_rpg_rogulike_V18_fixed.py)
+this is my first real game that I do so pls leave me some feedback in the discussions tabs
